@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/guojiawei/Downloads/solder_gun_project/build",
+  "command": "/usr/bin/g++  -I/home/guojiawei/Downloads/solder_gun_project/include   -Wall -g -o CMakeFiles/my_cmake_exe.dir/main.cpp.o -c /home/guojiawei/Downloads/solder_gun_project/main.cpp",
+  "file": "/home/guojiawei/Downloads/solder_gun_project/main.cpp"
+},
+{
+  "directory": "/home/guojiawei/Downloads/solder_gun_project/build",
+  "command": "/usr/bin/g++  -I/home/guojiawei/Downloads/solder_gun_project/include   -Wall -g -o CMakeFiles/my_cmake_exe.dir/src/Gun.cpp.o -c /home/guojiawei/Downloads/solder_gun_project/src/Gun.cpp",
+  "file": "/home/guojiawei/Downloads/solder_gun_project/src/Gun.cpp"
+},
+{
+  "directory": "/home/guojiawei/Downloads/solder_gun_project/build",
+  "command": "/usr/bin/g++  -I/home/guojiawei/Downloads/solder_gun_project/include   -Wall -g -o CMakeFiles/my_cmake_exe.dir/src/Solder.cpp.o -c /home/guojiawei/Downloads/solder_gun_project/src/Solder.cpp",
+  "file": "/home/guojiawei/Downloads/solder_gun_project/src/Solder.cpp"
+}
+]
